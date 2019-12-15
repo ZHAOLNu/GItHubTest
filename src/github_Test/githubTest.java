@@ -7,6 +7,7 @@ public class githubTest {
 		System.out.println("222");
 		
 		System.out.println("jianlifenzhi");
+		System.out.println("666");
 	}
 
 }
